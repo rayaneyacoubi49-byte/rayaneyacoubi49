@@ -1,14 +1,21 @@
+
+
+
 # rayaneyacoubi49-byte
 
 # Hi, I'm Rayane 👋
 
-### AI Engineer | Machine Learning & Data Science
+### AI & Machine Learning Engineering Student | Aspiring AI Engineer
 
-🎓 Fifth-year Engineering Student in Artificial Intelligence and Data Science at EMSI Rabat, Morocco.
+🎓 Fifth-year engineering student in Artificial Intelligence and Data Science at EMSI Rabat, Morocco.
 
-💡 Passionate about building intelligent systems and solving real-world problems through Machine Learning, Deep Learning, NLP and Generative AI.
+💻 Interested in building practical AI solutions using Machine Learning, Deep Learning, NLP, and Generative AI.
 
-🔍 Currently looking for a **6-month Final Year Project Internship (PFE)** in AI / Machine Learning.
+⚙️ Experienced with Python, model development, data processing, and MLOps tools such as MLflow and DVC.
+
+🎯 Currently seeking a **6-month PFE internship in AI / Machine Learning**, starting in 2027.
+
+📍 Morocco | Open to international opportunities.
 
 ## 🧠 Technical Skills
 
