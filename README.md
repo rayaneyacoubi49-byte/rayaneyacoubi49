@@ -19,7 +19,7 @@
 
 ## 🧠 Technical Skills
 
-**Programming**
+**Programming Languages**
 - Python, SQL, Java, C/C++, JavaScript
 
 **Machine Learning & Deep Learning**
@@ -29,9 +29,9 @@
 
 **NLP & Generative AI**
 - Transformers, CamemBERT
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
-- Prompt Engineering, RAG (Fundamentals)
+- Prompt Engineering, RAG Fundamentals
 
 **Data Engineering**
 - Pandas, NumPy
@@ -39,12 +39,12 @@
 - PostgreSQL, MongoDB
 - ETL, Data Processing
 
-**MLOps & Tools**
+**MLOps & DevOps**
 - MLflow, DVC, Git
-- Docker (Fundamentals)
-- n8n, OpenRPA
+- Docker Fundamentals
 
-**Visualization**
+**Automation & Visualization**
+- n8n, OpenRPA
 - Power BI, Matplotlib
 
 ## 🚀 Featured Projects
